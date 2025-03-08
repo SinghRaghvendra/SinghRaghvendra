@@ -113,6 +113,5 @@ Great Lakes Institute of Management & University of Texas at Austin
 <p>
   <img src="https://img.shields.io/badge/Email-raghavsingh0027@gmail.com-yellow.svg" alt="Email Badge"/>
 </p>
-<img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="256"/>
-<a href="https://aicouncel.blogspot.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
+<img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="200"/>
+
