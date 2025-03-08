@@ -1,6 +1,6 @@
 <p align="center">
   <strong>👋 Hi, I'm Raghvendra Singh</strong><br>
-  <img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="500"/>
+  <img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="250"/>
 </p>
 
 
@@ -16,8 +16,13 @@ I am constantly learning, improvising, and seeking ways to utilize my knowledge 
 - A strong foundation in **statistical modeling**, **data analysis**, and **programming**.
 - Seeking career opportunities in **Data Science** and **Business Analytics** roles.
 
+<p align="center">
+  <strong>🛠️ Skills</strong><br>
+  <img src="https://github.com/user-attachments/assets/d256509e-353f-4035-96f8-9b2acd233728" width="250"/>
+</p>
+
 ## 🛠️ Skills
-![image](https://github.com/user-attachments/assets/d256509e-353f-4035-96f8-9b2acd233728)
+
 ### Programming Languages:
 - **Python**, **R**, **SQL**
 
