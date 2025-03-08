@@ -1,8 +1,5 @@
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-                                                                                    
-                                                                                    # 👋 Hi, I'm Raghvendra Singh
-                                                                                    ![image](https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f)
+# 👋 Hi, I'm Raghvendra Singh
+![image](https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f)
 
 ## 🚀 Data Science & Business Analytics Enthusiast | Passionate about Leveraging Data to Drive Insights
 
@@ -98,4 +95,5 @@ Great Lakes Institute of Management & University of Texas at Austin
 - **20+ Hands-on projects** on Data Science
 - **[Digital Verification](https://la.utexas.edu/texasexeced/digitalVerification.html?key=uzbyddgo)**
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
