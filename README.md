@@ -16,7 +16,7 @@
 
 I am a Data Science professional with **PG in Data Science & Business Analytics (2024)** from **Great Lakes Institute of Management & University of Texas at Austin**. I am eager to apply my strong foundation in data analysis, machine learning and statistical modeling towards making a meaningful contribution in Data Science and Business Analytics.
 
-I am constantly learning, improvising, and seeking ways to utilize my knowledge and skills to help organizations grow and achieve their goals.
+I am constantly learning, improvising and seeking ways to utilize my knowledge and skills to help organizations grow and achieve their goals.
 
 ## 🎯 Summary
 
@@ -26,7 +26,7 @@ I am constantly learning, improvising, and seeking ways to utilize my knowledge 
 
 ## 🛠️ Skills
 
-<img src="https://github.com/user-attachments/assets/d256509e-353f-4035-96f8-9b2acd233728" width="500"/>
+<img src="https://github.com/user-attachments/assets/d256509e-353f-4035-96f8-9b2acd233728" width="300"/>
 
 ### Programming Languages:
 - **Python**, **R**, **SQL**
