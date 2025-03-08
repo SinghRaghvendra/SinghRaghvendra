@@ -1,9 +1,8 @@
-#👋 Hi, I'm Raghvendra Singh
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="250"/>
+# 👋 Hi, I'm Raghvendra Singh
+<img alt="Data Scientist" src="https://img.shields.io/badge/Data Scientist-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+<p>
+  <img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="256"/>
 </p>
-
 
 ## 🚀 Data Science & Business Analytics Enthusiast | Passionate about Leveraging Data to Drive Insights
 
@@ -93,7 +92,7 @@ Great Lakes Institute of Management & University of Texas at Austin
 - **[Kaggle](https://www.kaggle.com/raghavdatascientist)**
 - **[HackerRank](https://www.hackerrank.com/profile/raghavsingh0027)**
 - **[Tableau Public](https://public.tableau.com/app/profile/raghvendra.singh4020)**
-- **[Blog](https://aicouncel.blogspot.com/)**
+- **[AI COUNCEL](https://aicouncel.blogspot.com/)**
 
 ## 🏆 Achievements
 
@@ -101,5 +100,8 @@ Great Lakes Institute of Management & University of Texas at Austin
 - **20+ Hands-on projects** on Data Science
 - **[Digital Verification](https://la.utexas.edu/texasexeced/digitalVerification.html?key=uzbyddgo)**
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+### 🤝 Connect with me:
 
+<a href="https://www.linkedin.com/in/raghvendra0027/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="SinghRaghvendra | LinkedIn" width="29px"/></a>
+<a href="https://aicouncel.blogspot.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
