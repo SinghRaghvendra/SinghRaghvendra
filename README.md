@@ -1,6 +1,6 @@
 <p align="center">
-#👋 Hi, I'm Raghvendra Singh <br>
-<img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="500"/>
+  <strong>👋 Hi, I'm Raghvendra Singh</strong><br>
+  <img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="500"/>
 </p>
 
 
