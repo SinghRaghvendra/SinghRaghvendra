@@ -6,6 +6,10 @@
   <img alt="Data Scientist" src="https://img.shields.io/badge/AI%20Councel%20Lab-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </a>
 
+<a href="https://www.mygreatlearning.com/eportfolio/raghvendra-singh5">
+  <img alt="E-Portfolio" src="https://img.shields.io/badge/UT Texas-Portfolio-%23FF7F32.svg?style=for-the-badge&logoColor=Orange"/>
+</a>
+
 <a href="https://www.linkedin.com/in/raghvendra0027/">
   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="SinghRaghvendra | LinkedIn" width="29px"/>
 </a>
