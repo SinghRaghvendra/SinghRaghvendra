@@ -104,7 +104,7 @@ I am constantly learning, improvising and seeking ways to utilize my knowledge a
 Great Lakes Institute of Management & University of Texas at Austin
 
 ## 🎓 Certifications
-
+- **Google Data Analytics Professional Certificate** 
 - **Big Data Certification** (Great Learning)
 - **Power BI Certification** (Great Learning)
 - **Export Import Programme** (IIIEM Ahmedabad)
