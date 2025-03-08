@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Raghvendra Singh
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+                                                                                    
+                                                                                    # 👋 Hi, I'm Raghvendra Singh
+                                                                                    ![image](https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f)
 
 ## 🚀 Data Science & Business Analytics Enthusiast | Passionate about Leveraging Data to Drive Insights
 
@@ -13,7 +17,7 @@ I am constantly learning, improvising, and seeking ways to utilize my knowledge 
 - Seeking career opportunities in **Data Science** and **Business Analytics** roles.
 
 ## 🛠️ Skills
-
+![image](https://github.com/user-attachments/assets/d256509e-353f-4035-96f8-9b2acd233728)
 ### Programming Languages:
 - **Python**, **R**, **SQL**
 
@@ -94,6 +98,4 @@ Great Lakes Institute of Management & University of Texas at Austin
 - **20+ Hands-on projects** on Data Science
 - **[Digital Verification](https://la.utexas.edu/texasexeced/digitalVerification.html?key=uzbyddgo)**
 
----
 
-Feel free to personalize or adjust the formatting and sections further based on your preferences. This README highlights your key skills, certifications, projects, and links to key platforms, making it an engaging and comprehensive GitHub profile.
