@@ -1,8 +1,16 @@
-# 👋 Hi, I'm Raghvendra Singh
-<img alt="Data Scientist" src="https://img.shields.io/badge/Data Scientist-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-<p>
-  <img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="256"/>
-</p>
+# 👋 Hi, I'm Raghvendra Singh 
+<a>
+  <img align="right" alt="Data Scientist" src="https://img.shields.io/badge/Profile%20Views-11,295-1abc9c.svg"/>
+</a>
+<a href="https://aicouncel.blogspot.com/">
+  <img alt="Data Scientist" src="https://img.shields.io/badge/AI%20Councel%20Lab-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raghvendra0027/">
+  <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="SinghRaghvendra | LinkedIn" width="29px"/>
+</a>
+
+
 
 ## 🚀 Data Science & Business Analytics Enthusiast | Passionate about Leveraging Data to Drive Insights
 
@@ -102,6 +110,9 @@ Great Lakes Institute of Management & University of Texas at Austin
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/raghvendra0027/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="SinghRaghvendra | LinkedIn" width="29px"/></a>
+<p>
+  <img src="https://img.shields.io/badge/Email-raghavsingh0027@gmail.com-yellow.svg" alt="Email Badge"/>
+</p>
+<img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="256"/>
 <a href="https://aicouncel.blogspot.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
