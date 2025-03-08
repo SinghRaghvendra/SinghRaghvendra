@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Raghvendra Singh
-![image](https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f)
+<img src="https://github.com/user-attachments/assets/aafd43f2-3eaa-4ae3-860e-d23ddbe0fc7f" width="500"/>
+
 
 ## 🚀 Data Science & Business Analytics Enthusiast | Passionate about Leveraging Data to Drive Insights
 
