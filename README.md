@@ -14,9 +14,7 @@
   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="SinghRaghvendra | LinkedIn" width="29px"/>
 </a>
 
-
-
-## 🚀 Data Science & Business Analytics Enthusiast | Passionate about Leveraging Data to Drive Insights
+## 🚀 Data Science & Business Analytics professional with Ecommerce & Digital Marketing specialization
 
 I am a Data Science professional with **PG in Data Science & Business Analytics (2024)** from **Great Lakes Institute of Management & University of Texas at Austin**. I am eager to apply my strong foundation in data analysis, machine learning and statistical modeling towards making a meaningful contribution in Data Science and Business Analytics.
 
@@ -31,19 +29,16 @@ I am constantly learning, improvising and seeking ways to utilize my knowledge a
 ## 🛠️ Skills
 
 <img src="https://github.com/user-attachments/assets/d256509e-353f-4035-96f8-9b2acd233728" width="300"/>
-
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### Machine Learning Techniques:
 ![Regression](https://img.shields.io/badge/Regression-FFD700?style=for-the-badge&logo=linear&logoColor=white)
 ![Classification](https://img.shields.io/badge/Classification-1E90FF?style=for-the-badge&logo=classification&logoColor=white)
 ![Clustering](https://img.shields.io/badge/Clustering-8A2BE2?style=for-the-badge&logo=kmeans&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time_Series-008080?style=for-the-badge&logo=chart&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=nltk&logoColor=white)
-
 ### Deep Learning:
 ![CNN](https://img.shields.io/badge/CNN-FF5733?style=for-the-badge&logo=keras&logoColor=white)
 ![RNN](https://img.shields.io/badge/RNN-6A5ACD?style=for-the-badge&logo=keras&logoColor=white)
@@ -51,7 +46,6 @@ I am constantly learning, improvising and seeking ways to utilize my knowledge a
 ![GANs](https://img.shields.io/badge/GANs-FF1493?style=for-the-badge&logo=ai&logoColor=white)
 ![Image Classification](https://img.shields.io/badge/Image%20Classification-00FF00?style=for-the-badge&logo=opencv&logoColor=white)
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-32CD32?style=for-the-badge&logo=nltk&logoColor=white)
-
 ### Libraries & Frameworks:
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -62,55 +56,39 @@ I am constantly learning, improvising and seeking ways to utilize my knowledge a
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-4E96B1?style=for-the-badge&logo=nltk&logoColor=white)
-
 ### Data Manipulation & Analysis:
 ![SciPy](https://img.shields.io/badge/SciPy-8A7F8E?style=for-the-badge&logo=sciPy&logoColor=white)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-F8C30F?style=for-the-badge&logo=feature-engineering&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-0E4A66?style=for-the-badge&logo=etl&logoColor=white)
-
 ### Big Data Technologies:
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-FB4C3B?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FDBD34?style=for-the-badge&logo=apache-hive&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
 ### Cloud Platforms:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
 ### Data Visualization & BI Tools:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0A0A23?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3A7E7A?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-2E2A47?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-
 ### Version Control & Collaboration:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-4B87B8?style=for-the-badge&logo=asana&logoColor=white)
-
 ### Soft Skills:
 ![Problem-solving](https://img.shields.io/badge/Problem%20Solving-1D976D?style=for-the-badge&logo=problem-solving&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-00A6A6?style=for-the-badge&logo=communication&logoColor=white)
 ![Collaboration](https://img.shields.io/badge/Collaboration-4A90E2?style=for-the-badge&logo=collaboration&logoColor=white)
 
 ## 🎓 Education
-
 **PG-Data Science & Business Analytics**  
 Great Lakes Institute of Management & University of Texas at Austin
-
-## 🎓 Certifications
-- **Google Data Analytics Professional Certificate**
-- **Salesforce Business Analyst**
-- **Big Data Certification** (Great Learning)
-- **Power BI Certification** (Great Learning)
-- **Export Import Programme** (IIIEM Ahmedabad)
-- **Digital Marketing Certification** (360DigitMG, Panasonic)
-- **Innovation Readiness Programme** (IC2 Institute, UT Texas Austin)
 
 ## 💼 Data Science Portfolio
 
@@ -129,8 +107,6 @@ This project applies unsupervised machine learning to cluster digital ads into m
 - Delivered actionable recommendations for ad targeting
 - Built a reusable ML pipeline for future ad analytics
 
-
-
 ### 2. [Predicting Insurance Costs for Healthcare Customers](https://github.com/SinghRaghvendra/Insurance_Cost_Prediction/blob/main/RaghvendraSingh_HealthCare_CapstoneFinal_17Nov24.ipynb)
 - Developed a regression model to predict insurance costs with hyperparameter tuning and deployed it on Heroku.
 
@@ -146,10 +122,9 @@ This project applies unsupervised machine learning to cluster digital ads into m
 ### 6. [Claims Dashboard for Insurance Company (Tableau)](https://public.tableau.com/app/profile/raghvendra.singh4020/viz/RaghvendraSingh_DVTproject_11AUG24/1_UNDERSTANDINGOURCLIENTS)
 - Created an interactive claims dashboard to track insurance data insights.
 
-### 7. [Project Reports](https://drive.google.com/drive/folders/17GfhIv8h5weclhUpxaD9kb8GcYVtOZvG?usp=sharing)
+### 7. [All Project Reports in PDF](https://drive.google.com/drive/folders/17GfhIv8h5weclhUpxaD9kb8GcYVtOZvG?usp=sharing)
 
 ## 🔑 Key Links
-
 - **[E-Portfolio](https://www.mygreatlearning.com/eportfolio/raghvendra-singh5)**
 - **[GitHub](https://github.com/SinghRaghvendra/Data-Scientist)**
 - **[Kaggle](https://www.kaggle.com/raghavdatascientist)**
@@ -157,14 +132,21 @@ This project applies unsupervised machine learning to cluster digital ads into m
 - **[Tableau Public](https://public.tableau.com/app/profile/raghvendra.singh4020)**
 - **[AI COUNCEL](https://aicouncel.blogspot.com/)**
 
-## 🏆 Achievements
+## 🎓 Certifications
+- **Google Data Analytics Professional Certificate**
+- **Salesforce Business Analyst**
+- **Big Data Certification** (Great Learning)
+- **Power BI Certification** (Great Learning)
+- **Export Import Programme** (IIIEM Ahmedabad)
+- **Digital Marketing Certification** (360DigitMG, Panasonic)
+- **Innovation Readiness Programme** (IC2 Institute, UT Texas Austin)
 
+## 🏆 Achievements
 - **GPA**: 4/4.3 (93%) & **Top 5** in Data Science batch
 - **20+ Hands-on projects** on Data Science
 - **[Digital Verification](https://la.utexas.edu/texasexeced/digitalVerification.html?key=uzbyddgo)**
 
 ### 🤝 Connect with me:
-
 <p>
   <img src="https://img.shields.io/badge/Email-raghavsingh0027@gmail.com-yellow.svg" alt="Email Badge"/>
 </p>
