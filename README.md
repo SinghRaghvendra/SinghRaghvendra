@@ -114,7 +114,8 @@ Great Lakes Institute of Management & University of Texas at Austin
 
 ## 💼 Data Science Portfolio
 
-### 1. [Digital Ads Clustering – ads24x7](https://github.com/SinghRaghvendra/Data-Scientist/blob/Files/DigitalMarketingAdsCLustering_MachineLearning1.ipynb) [View Report](https://github.com/SinghRaghvendra/Data-Scientist/blob/Files/DigitalMarketingAdsCLustering_MachineLearning1.pdf)
+### 1. [Digital Ads Clustering – ads24x7](https://github.com/SinghRaghvendra/Data-Scientist/blob/Files/DigitalMarketingAdsCLustering_MachineLearning1.ipynb)
+[View Full Report with Code, Approach and Business Insights](https://github.com/SinghRaghvendra/Data-Scientist/blob/Files/DigitalMarketingAdsCLustering_MachineLearning1.pdf)
 
 This project applies unsupervised machine learning to cluster digital ads into meaningful segments for the digital marketing company **ads24x7**, recently backed with $10M in seed funding. By analyzing ad performance metrics like impressions, clicks, CTR and cost, the model uncovers patterns that help optimize campaign strategies and improve ROI.
 
