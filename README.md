@@ -29,10 +29,12 @@ I am constantly learning, improvising and seeking ways to utilize my knowledge a
 ## 🛠️ Skills
 
 <img src="https://github.com/user-attachments/assets/d256509e-353f-4035-96f8-9b2acd233728" width="300"/>
+
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### Machine Learning Techniques:
 ![Regression](https://img.shields.io/badge/Regression-FFD700?style=for-the-badge&logo=linear&logoColor=white)
 ![Classification](https://img.shields.io/badge/Classification-1E90FF?style=for-the-badge&logo=classification&logoColor=white)
