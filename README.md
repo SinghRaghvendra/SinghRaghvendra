@@ -141,7 +141,7 @@ This project applies unsupervised machine learning to cluster digital ads into m
 - **Power BI Certification** (Great Learning)
 - **Export Import Programme** (IIIEM Ahmedabad)
 - **Digital Marketing Certification** (360DigitMG, Panasonic)
-- **Innovation Readiness Programme** (IC2 Institute, UT Texas Austin)
+- **Entrepreneur Readiness Programme** (IC2 Institute, UT Texas Austin)
 
 ## 🏆 Achievements
 - **GPA**: 4/4.3 (93%) & **Top 5** in Data Science batch
